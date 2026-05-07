@@ -20,8 +20,8 @@ BIB_PATH = 'references.bib'
 ARCHIVE_PATH = 'obsidian_archive.json'
 
 # Set your Obsidian vault path here - update this to your actual vault path
-OBSIDIAN_VAULT_PATH = os.path.expanduser('~/Documents/Obsidian Vault')  # Change this!
-PAPERS_FOLDER = 'Papers'
+OBSIDIAN_VAULT_PATH = os.path.expanduser('~/Documents/pt-obsidian')  # Change this!
+PAPERS_FOLDER = '05 - Structure/10 - Paperpile'
 
 
 def clean_str(s):
